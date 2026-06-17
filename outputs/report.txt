@@ -1,0 +1,18 @@
+SUPPORT TICKET CLASSIFICATION REPORT
+
+Accuracy: 84.97%
+
+                       precision    recall  f1-score   support
+
+               Access       0.90      0.90      0.90      1425
+Administrative rights       0.86      0.70      0.77       352
+           HR Support       0.85      0.84      0.85      2183
+             Hardware       0.80      0.85      0.83      2724
+     Internal Project       0.89      0.86      0.88       424
+        Miscellaneous       0.82      0.82      0.82      1412
+             Purchase       0.95      0.88      0.91       493
+              Storage       0.92      0.87      0.90       555
+
+             accuracy                           0.85      9568
+            macro avg       0.87      0.84      0.86      9568
+         weighted avg       0.85      0.85      0.85      9568
