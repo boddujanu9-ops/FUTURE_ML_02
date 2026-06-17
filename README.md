@@ -51,10 +51,13 @@ The model was trained using TF-IDF and LinearSVC for multi-class ticket classifi
 
 Evaluation Metrics:
 
-* Accuracy Score
-* Precision
-* Recall
-* F1-Score
+* Accuracy Achieved: 84.97%
+
+* Dataset Size: 47,837 Support Tickets
+
+* Model Used: LinearSVC
+
+* Vectorization Technique: TF-IDF
 
 ## Visualizations
 
